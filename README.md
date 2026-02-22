@@ -12,6 +12,8 @@
 
 ## 🙋‍♂️ Sobre mí
 
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la **UVEG** (Universidad Virtual del Estado de Guanajuato)
+- 🎓 Estudiante de **Ingeniería en Telemática** en la **UnADM** (Universidad Abierta y a Distancia de México)
 - 🚀 Estudiante activo del programa **Oracle Next Education G9** en colaboración con **Alura Latam**
 - 💻 Apasionado por construir soluciones robustas tanto en el **backend** como en el **frontend**
 - 🌱 Actualmente reforzando mis habilidades en **Java**, **Spring Boot** y **JavaScript**
@@ -63,8 +65,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alemakey&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemakey&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alemakey&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemakey&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -72,14 +74,14 @@
 ## 📬 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alemakey" target="_blank">
+  <a href="https://www.linkedin.com/in/victoramtzreyna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/alemakey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:victor.reyna@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:victor.reyna@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
 </p>
 
