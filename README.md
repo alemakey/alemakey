@@ -38,10 +38,41 @@
 
 ## 🌟 Proyectos Destacados
 
+### 🌿 Ecomart
+>
+> API REST en **Java 17 + Spring Boot 3** que integra **Spring AI** y **OpenAI** (GPT-4o-mini y DALL-E 3) para categorizar productos, generar descripciones e imágenes de un catálogo de ecommerce ecológico.
+
+**Características principales:**
+
+- Categorización automática y generación de descripciones con GPT
+- Resúmenes cortos orientados a ventas (máx. 50 palabras)
+- Generación de imágenes de producto con DALL-E 3
+- Conteo de tokens de entrada por solicitud para control de costos
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemakey/ecomart-spring-ai)
+
+---
+
+### 🗣️ Foro Hub
+>
+> API REST para gestionar un foro de discusión. Permite crear, listar, actualizar y eliminar tópicos, con autenticación **JWT** y autorización de endpoints.
+
+**Características principales:**
+
+- Autenticación y Autorización con Spring Security + JWT
+- Persistencia de datos con Spring Data JPA + H2
+- Bean Validation para garantizar integridad de datos
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemakey/challenge-foro-hub)
+
+---
+
 ### 📚 LiterAlura
+>
 > Aplicación de catálogo de libros construida con **Java + Spring Boot**, que consume la API pública de **Gutendex** para buscar y almacenar libros con sus autores en una base de datos **PostgreSQL**.
 
 **Características principales:**
+
 - Búsqueda de libros por título vía API REST (Gutendex)
 - Persistencia de datos con Spring Data JPA + PostgreSQL
 - Menú interactivo en consola con listados, filtros y estadísticas
@@ -51,14 +82,30 @@
 ---
 
 ### 🎁 Amigo Secreto
+>
 > Aplicación web de **sorteo de Amigo Secreto** construida con **HTML**, **CSS** y **JavaScript** puro. Permite agregar participantes, validar entradas y realizar un sorteo aleatorio justo.
 
 **Características principales:**
+
 - Validación estricta: sin nombres vacíos ni duplicados
-- Algoritmo de sorteo aleatorio y justo
+- Algoritmo de emparejamiento aleatorio Fisher-Yates
 - Interfaz accesible y responsiva (HTML semántico + ARIA)
 
-[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemakey/amigo-secreto)
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemakey/challenge-amigo-secreto)
+
+---
+
+### 📡 Telematics Automation Toolkit
+>
+> Colección de herramientas en **Python** para automatizar el aprovisionamiento masivo de dispositivos GPS, reduciendo significativamente el tiempo de configuración.
+
+**Características principales:**
+
+- Generación automatizada de comandos SMS para equipos de rastreo
+- Interfaz gráfica moderna con PySide6
+- Scripts modulares diseñados para escala empresarial
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alemakey/telematics-automation-toolkit)
 
 ---
 
